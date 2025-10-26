@@ -54,8 +54,13 @@ I love exploring how secure systems are built, how data can be protected, and ho
 ---
 
 ### 📫 How to Reach Me  
-- 🔗 [**LinkedIn**](https://www.linkedin.com/in/mary-clare-saibert-572571258/)  
-- 📧 **maryclaresaibert@gmail.com**
+<p align="left">
+  <a href="https://www.linkedin.com/in/mary-clare-saibert-572571258" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
+  </a>
+  <a href="mailto:maryclaresaibert@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" width="50" height="50"/>
+  </a>
 
 ---
 
